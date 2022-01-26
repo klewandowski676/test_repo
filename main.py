@@ -1,7 +1,7 @@
 def dodawanie(a, b):
     return(a+b)
 
-def sprawdzenie(x, y)
+def sprawdzenie(x, y):
     if x > y:
         return x
     else:
