@@ -7,4 +7,3 @@ def sprawdzenie(x, y):
     else:
         return 'x musi byc wieksze od y'
 
-print(sprawdzenie(6, 5))
